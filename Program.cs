@@ -26,9 +26,9 @@
                     }
                     else Console.WriteLine("Наш калькулятор не знает такого действия");
                 }
+                else Console.WriteLine("Вводите числа!");
             }
             else Console.WriteLine("Корректно введите пример!");
         }
-    }
     }
 }
